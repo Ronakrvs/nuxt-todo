@@ -1,0 +1,3 @@
+<template>
+    <Loginform/>
+</template>
